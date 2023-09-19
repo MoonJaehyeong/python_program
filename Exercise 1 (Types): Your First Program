@@ -1,7 +1,6 @@
-Print('안녕하세요? 제 이름은 문재형입니다.')
+Print('Hello, world!')
 
-Print("Hi, my name is Daniel Moon") #이것은 텍스트 출력을 위한 명령 코드입니다.
+Print("Hello, world!") #이것은 텍스트 출력을 위한 명령 코드입니다.
 
 # 이름: 문재형
 # 학번: 2022177357
-# 첫번째 과제 제출합니다.
