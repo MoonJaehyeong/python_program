@@ -1,0 +1,26 @@
+# 이름: 문재형
+# 학번: 2022177357
+
+
+# Exercise 1 (Types): Your First Program
+
+Print('Hello, world!')
+# Hello, world!가 출력됩니다.
+Print("Hello, world!") #이것은 텍스트 출력을 위한 명령 코드입니다.
+# Hello, world!가 출력됩니다.
+
+
+
+# Exercise 2 (Types): Get the object type
+
+type(12.0)
+# 12.0의 유형은 float입니다.
+
+
+
+# Exercise 3 (Types): Types
+type(6/2)
+# 6/2 = 3.0으로 float 유형입니다.
+
+type(6//2)
+# 6//3 = 3으로 int 유형입니다.
