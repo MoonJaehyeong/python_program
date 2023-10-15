@@ -3,9 +3,9 @@
 
 
 # Exercise 1 (Types): Your First Program
-Print('Hello, world!')
+print('Hello, world!')
 # --> Hello, world!
-Print("Hello, world!") #이것은 텍스트 출력을 위한 명령 코드입니다.
+print("Hello, world!") #이것은 텍스트 출력을 위한 명령 코드입니다.
 # --> Hello, world!
 
 
