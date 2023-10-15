@@ -1,0 +1,32 @@
+# 이름: 문재형
+# 학번: 2022177357
+
+#Qz1-a
+soundtrack_dic = {"The Bodyguard":"1992", "Saturday Night Fever":"1977"}
+soundtrack_dic
+#result: {'The Bodyguard': '1992', 'Saturday Night Fever': '1977'}
+
+soundtrack_dic.keys()
+#result: dict_keys(['The Bodyguard', 'Saturday Night Fever'])
+
+#Qz1-b
+soundtrack_dic.values()
+#result: dict_values(['1992', '1977'])
+
+
+#Qz2-a
+album_sales_dict = {"Back in Black":5000000, "The Bodyguard":5000000, "Thriller":6500000}
+album_sales_dict
+#result: {'Back in Black': 5000000, 'The Bodyguard': 5000000, 'Thriller': 6500000}
+
+#Qz2-b
+album_sales_dict['Thriller']
+#result: 6500000
+
+#Qz2-c
+album_sales_dict.keys()
+#result: dict_keys(['Back in Black', 'The Bodyguard', 'Thriller'])
+
+#Qz2-d
+album_sales_dict.values()
+#result: dict_values([5000000, 5000000, 6500000])
