@@ -1,0 +1,21 @@
+# 이름: 문재형
+# 학번: 2022177357
+
+#Qz1
+a_List = [1, "hello", [1,2,3,], True]
+a_List
+#result: [1, 'hello', [1, 2, 3], True]
+
+#Qz2
+a_List[1]
+#result: 'hello'
+
+#Qz3
+a_List[1:4]
+#result: ['hello', [1, 2, 3], True]
+
+#Qz4
+A = [1, 'a']
+B = [2, 1, 'd']
+A+B
+#result: [1, 'a', 2, 1, 'd']
