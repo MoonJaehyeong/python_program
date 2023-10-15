@@ -1,0 +1,48 @@
+# 이름: 문재형
+# 학번: 2022177357
+
+
+#Ex1
+A = "1"
+A
+# result: '1'
+
+#Ex2
+B = "2"
+B
+# result: '2'
+
+#Ex3
+C = A + B
+C
+# result: '12'
+
+#Ex4
+D = "ABCDEFG"
+print(D[0:3])
+# result: ABC
+
+#Ex5
+E = "clocrkr1e1c1t"
+print(E[::2])
+# result: correct
+
+#Ex6
+print("\\")
+# result: \
+
+#Ex7
+F = "You are wrong"
+print(F.upper())
+# result: YOU ARE WRONG
+
+#Ex8
+G = "Mary had a little lamb Little lamb, little lamb Mary had a little lamb \
+Its fleece was white as snow And everywhere that Mary went Mary went, Mary went \
+Everywhere that Mary went The lamb was sure to go"
+G.find("snow")
+# result: 95
+
+#Ex9
+G.replace("Mary", "Bob")
+# result: 'Bob had a little lamb Little lamb, little lamb Bob had a little lamb Its fleece was white as snow And everywhere that Bob went Bob went, Bob went Everywhere that Bob went The lamb was sure to go'
