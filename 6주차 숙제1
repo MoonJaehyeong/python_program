@@ -1,0 +1,24 @@
+# 이름: 문재형
+# 학번: 2022177357
+
+
+#Qz1
+def div(a, b):
+    c = a / b
+    return(c)
+
+
+#Qz2
+def con(a, b):
+    c = a + b
+    return(c)
+
+
+#Qz3
+con(5,2)
+#result: 7
+
+
+#Qz4
+con(['man',1], ['woman',2])
+#result: ['man', 1, 'woman', 2]
