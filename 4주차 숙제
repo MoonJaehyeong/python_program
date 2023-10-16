@@ -1,0 +1,28 @@
+# 이름: 문재형
+# 학번: 2022177357
+
+
+#Qz1
+album_rating = 8.5
+
+if album_rating > 8:
+    print("This album is Amazing!")
+#result: This album is Amazing!
+
+
+#Qz2
+album_rating = 8.5
+
+if album_rating > 8:
+    print("This album is Amazing!")
+else:
+    print("This album is OK!")
+#result: This album is Amazing!
+
+
+#Qz3
+album_year = 1979
+
+if album_year < 1980 or album_year == 1991 or album_year == 1993:
+    print ("This album came out already")
+#result: This album came out already
