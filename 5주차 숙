@@ -1,0 +1,67 @@
+# 이름: 문재형
+# 학번: 2022177357
+
+
+#Qz1
+for i in range(-5, 6):
+    print(i)
+#result: -5
+-4
+-3
+-2
+-1
+0
+1
+2
+3
+4
+5
+
+
+#Qz2
+Genres = ['rock', 'R&B', 'Soundtrack', 'R&B', 'soul', 'pop']
+for i in Genres:
+    print(i
+#result: rock
+R&B
+Soundtrack
+R&B
+soul
+pop
+
+
+#Qz3
+squares=['red', 'yellow', 'green', 'purple', 'blue']
+for i in squares:
+    print(i)
+#result: red
+yellow
+green
+purple
+blue
+
+
+#Qz4
+PlayListRatings = [10, 9.5, 10, 8, 7.5, 5, 10, 10]
+i = 1
+Rating = PlayListRatings[0]  #10
+while(Rating >= 6):
+    print(Rating)
+    Rating = PlayListRatings[i]
+    i = i + 1
+#result: 10
+9.5
+10
+8
+7.5
+
+
+#Qz5
+squares = ['orange', 'orange', 'purple', 'blue ', 'orange']
+new_squares = []
+i = 0
+while(squares[i] == 'orange'):
+    new_squares.append(squares[i])
+    i = i + 1
+print (new_squares)
+#result: ['orange', 'orange']
